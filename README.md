@@ -18,7 +18,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/PedroEllero)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=LINK_LINKEDIN)](https://www.linkedin.com/in/pedro-luiz-de-souza-ellero-7439a724b/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=LINK_LINKEDIN)](https://www.linkedin.com/in/pedro-ellero/)
 
 
 - Thanks for visiting.
